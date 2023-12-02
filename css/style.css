@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+padding: 2rem;
+
+}
+div {
+    margin: 2rem;
+    border: 5px; solid green
+    background-image: 
+    height: 200;
+    width: 200;
+    background-position:center
+    backgrond-size:cover
+    background-clip:text
+
+}
+.coke {}
+p{
+    color: brown;
+}
+.coke p{
+
+}
